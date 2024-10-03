@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shadrack Kipruto",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@adobe/pdfservices-node-sdk": "^4.0.1",
+    "adm-zip": "^0.5.15",
+    "pdf-to-text": "^0.0.7"
+  }
 }
